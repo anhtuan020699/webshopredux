@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/webshopredux/static/css/main.56e6221f.css",
+    "main.js": "/webshopredux/static/js/main.b8e2bb79.js",
+    "index.html": "/webshopredux/index.html",
+    "main.56e6221f.css.map": "/webshopredux/static/css/main.56e6221f.css.map",
+    "main.b8e2bb79.js.map": "/webshopredux/static/js/main.b8e2bb79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e6221f.css",
+    "static/js/main.b8e2bb79.js"
+  ]
+}
